@@ -312,3 +312,4 @@ aldsd: [ns1.huaweicloud-dns.cn, ns1.huaweicloud-dns.com, ns1.huaweicloud-dns.net
 ayai: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net]
 higgs: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 nt: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
+4334231: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
